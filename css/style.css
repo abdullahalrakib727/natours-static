@@ -61,7 +61,7 @@ body {
   letter-spacing: 30px;
   animation: moveInLeft 1s ease-out;
 
-  /* animation-iteration-count: 3; /to repeat animation/ */
+  /*! animation-iteration-count: 3; /to repeat animation/ */
 
   /* animation-delay: 3s; */
 }
@@ -82,7 +82,7 @@ body {
   text-align: center;
 }
 
-/* Animations */
+/** Animations */
 
 @keyframes moveInLeft {
   0% {
@@ -179,3 +179,5 @@ body {
   animation: moveInBottom 0.5s ease-out 0.75s;
   animation-fill-mode: backwards;
 }
+
+/** Section About */
