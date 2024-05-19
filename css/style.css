@@ -462,6 +462,7 @@ body {
 }
 .story:hover .story__img {
   transform: translateX(-4rem) scale(1.2);
+  filter: blur(3px) brightness(80%);
 }
 
 .header {
