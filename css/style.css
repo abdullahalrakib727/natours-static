@@ -301,8 +301,7 @@ body {
   background-size: cover;
   background-position: top;
   position: relative;
-  -webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
-          clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
 .header__logo-box {
   position: absolute;
@@ -377,4 +376,6 @@ body {
 .feature-box:hover {
   transform: translateY(-1.5rem) scale(1.03);
   cursor: pointer;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */

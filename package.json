@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-    "scss": "sass --watch sass/main.scss css/main.css -w"
+    "scss": "sass --watch sass/main.scss css/style.css -w"
   },
   "author": "abdullahalrakib727",
   "license": "ISC",
